@@ -1,0 +1,13 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/muxelplexer/workspace/osdev/xv6-riscv/kernel",
+            "binaryPath": "/home/muxelplexer/workspace/osdev/xv6-riscv/kernel/kernel",
+            "binaryArgs": []
+        }
+    ],
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "user.h": "c"
+    }
+}
